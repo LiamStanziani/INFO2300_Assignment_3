@@ -27,7 +27,7 @@ This project was made for a previous class and was an assignment that required u
 * Wait for the emulator to open the application
 
 ## Additional information
-If you would like to see an application demonstration and code explanation, please use email me and I can send a link to a application demonstration
+If you would like to see an application demonstration and code explanation, please email me and I can send a link to a application demonstration that I have created.
 
 ## Reason for the BSD-2-Clause license
 This license was chosen because of its permissions that allow for commercial use, distribution, modification, and private use. These permissions allow users to freely use and modify the code that I created in most ways. I did not allow for patent use and added license limitations since the application relies on an API that could, at any point, break or disallow the ability to be used for free without any additions that I added, which could conflict with their version of the project.
