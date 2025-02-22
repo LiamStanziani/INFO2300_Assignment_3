@@ -2,7 +2,7 @@
 
 ## Purpose of this project
 
-This project was made for a previous class (`Course Code: PROG3210`) and was an assignment that required us to create an android application with the included functionality:
+This project was made for a previous class and was an assignment that required us to create an android application with the included functionality:
 * `Allow for user input in a search bar and the ability to search for the input with a button`
 * `Call a movie DB API to find the requested movies from the user input`
 * `Get the response from the API with all of the related movies and create a scrollable movie list`
@@ -27,7 +27,7 @@ This project was made for a previous class (`Course Code: PROG3210`) and was an 
 * Wait for the emulator to open the application
 
 ## Additional information
-If you would like to see an application demonstration and code explanation, please use this link: [Assignment Demo](https://www.youtube.com/watch?v=f4RQ2H1odec)
+If you would like to see an application demonstration and code explanation, please use email me and I can send a link to a application demonstration
 
 ## Reason for the BSD-2-Clause license
 This license was chosen because of its permissions that allow for commercial use, distribution, modification, and private use. These permissions allow users to freely use and modify the code that I created in most ways. I did not allow for patent use and added license limitations since the application relies on an API that could, at any point, break or disallow the ability to be used for free without any additions that I added, which could conflict with their version of the project.
